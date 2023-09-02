@@ -3,7 +3,7 @@
 <h3>Hello! Welcome to my profile</h3>
 <p>🚀 Web developer and future full-stack</p>
 <p>🌱 learning Typescript and React</p>
-<p>📚 Graduation at Centro Universitario Senac 2nd semester</p>
+<p>📚 Studying at Centro Universitario Senac 2nd semester</p>
 
 <h3>Contacts:</h3>
 <a href="https://linkedin.com/in/guilherme-henrique-silva-pereira-9283b023a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
