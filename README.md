@@ -2,7 +2,7 @@
 
 <h3>Hello! Welcome to my profile</h3>
 <p>🚀 Web developer and future full-stack</p>
-<p>🌱 learning Typescript and React</p>
+<p>🌱 learning JavaScript, Typescript, React and sql</p>
 <p>📚 Studying at Centro Universitario Senac 2nd semester</p>
 
 <h3>Contacts:</h3>
