@@ -21,6 +21,7 @@
   <img align="center" alt="Git" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Mysql" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Mysql" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Mysql" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
 </div><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Guihsp&show_icons=true&locale=en&layout=compact&theme=dracula" alt="most-languages" /></p>
