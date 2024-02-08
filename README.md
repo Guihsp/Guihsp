@@ -3,7 +3,7 @@
 </h1>
 <br>
 <div class = "subtitles" align = "center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=17&center=true&pause=1500&duration=3000&color=EEE&random=false&width=435&height=30&lines=%F0%9F%9A%80+Web+Full+Stack+Developer;%F0%9F%8C%B1+learning+JavaScript%2C+Typescript%2C+React+and+sql;%F0%9F%93%9A+Graduating+in+Software+Analysis+and+Development" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=17&center=true&pause=1500&duration=3000&color=EEE&random=false&width=435&height=30&lines=%F0%9F%9A%80+Web+developer+and+future+full-stack.;%F0%9F%8C%B1+learning+JavaScript%2C+Typescript%2C+React+and+sql;%F0%9F%93%9A+Graduating+in+Software+Analysis+and+Development" alt="Typing SVG" /></a>
 </div>
 <br>
 <div class = "contacts" align = "center">
